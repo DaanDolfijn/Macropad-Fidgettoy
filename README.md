@@ -2,7 +2,6 @@
 
 This is my Hackpad made to copy and paste stuff in linux with ctl ins and sft ins, while also being nice to fidget with
 
-I made it cus i like small litle projects like this
 
 <img width="665" height="473" alt="image" src="https://github.com/user-attachments/assets/9804f795-18f3-490a-a03a-bab0495055a2" />
 
